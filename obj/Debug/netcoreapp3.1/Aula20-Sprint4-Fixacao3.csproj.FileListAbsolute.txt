@@ -1,0 +1,13 @@
+C:\Users\amand\Desktop\Projeto senai\Aula20-Sprint4-Fixacao3\bin\Debug\netcoreapp3.1\Aula20-Sprint4-Fixacao3.exe
+C:\Users\amand\Desktop\Projeto senai\Aula20-Sprint4-Fixacao3\bin\Debug\netcoreapp3.1\Aula20-Sprint4-Fixacao3.deps.json
+C:\Users\amand\Desktop\Projeto senai\Aula20-Sprint4-Fixacao3\bin\Debug\netcoreapp3.1\Aula20-Sprint4-Fixacao3.runtimeconfig.json
+C:\Users\amand\Desktop\Projeto senai\Aula20-Sprint4-Fixacao3\bin\Debug\netcoreapp3.1\Aula20-Sprint4-Fixacao3.runtimeconfig.dev.json
+C:\Users\amand\Desktop\Projeto senai\Aula20-Sprint4-Fixacao3\bin\Debug\netcoreapp3.1\Aula20-Sprint4-Fixacao3.dll
+C:\Users\amand\Desktop\Projeto senai\Aula20-Sprint4-Fixacao3\bin\Debug\netcoreapp3.1\Aula20-Sprint4-Fixacao3.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula20-Sprint4-Fixacao3\obj\Debug\netcoreapp3.1\Aula20-Sprint4-Fixacao3.csprojAssemblyReference.cache
+C:\Users\amand\Desktop\Projeto senai\Aula20-Sprint4-Fixacao3\obj\Debug\netcoreapp3.1\Aula20-Sprint4-Fixacao3.csproj.CoreCompileInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula20-Sprint4-Fixacao3\obj\Debug\netcoreapp3.1\Aula20-Sprint4-Fixacao3.AssemblyInfoInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula20-Sprint4-Fixacao3\obj\Debug\netcoreapp3.1\Aula20-Sprint4-Fixacao3.AssemblyInfo.cs
+C:\Users\amand\Desktop\Projeto senai\Aula20-Sprint4-Fixacao3\obj\Debug\netcoreapp3.1\Aula20-Sprint4-Fixacao3.dll
+C:\Users\amand\Desktop\Projeto senai\Aula20-Sprint4-Fixacao3\obj\Debug\netcoreapp3.1\Aula20-Sprint4-Fixacao3.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula20-Sprint4-Fixacao3\obj\Debug\netcoreapp3.1\Aula20-Sprint4-Fixacao3.genruntimeconfig.cache
