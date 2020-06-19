@@ -2,15 +2,15 @@ namespace Aula20_Sprint4_Fixacao3
 {
     public class Restaurante
     {
-         public string NomeFantasia {get; set;}
+         public string Nome {get; set;}
         public string Endereco {get; set;}
 
-        public Restaurante(string _nomeFantasia, string _endereco){
-            this.NomeFantasia = _nomeFantasia;
+        public Restaurante(string _nome, string _endereco){
+            this.Nome= _nome;
             this.Endereco = _endereco;
         }
         public string MostrarDados(){
-            return $"O nome do restaurante é {NomeFantasia} e se localiza no(a) {Endereco}";
+            return $"Restaurante: {Nome} \nEndereco: {Endereco} \n";
         }
     }
 }

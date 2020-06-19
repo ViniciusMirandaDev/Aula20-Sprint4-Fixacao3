@@ -1,14 +1,25 @@
+using System;
+
 namespace Aula20_Sprint4_Fixacao3
 {
     public class Pedido
     {
-         public string [] itens=new string[3]{"Hamburguer","Refri","Sorvete"};
-        public string Cliente {get; set;}
-        public string Restaurante {get; set;}
-        public string FormaPGTO;
-        public bool PedidoPago;
+        public string[] Itens { get; set; }
+        public Cliente Cliente { get; set; }
+        public Restaurante Restaurante { get; set; } 
+        public string FormaPGTO { get; set; }
+        public bool PedidoPago { get; set; }
+        public DateTime Horario {get; set;}
         public string EntregarPedido(){
-            return "Pedido entregue";
+
+            Horario = DateTime.Now;
+
+            string retorno = "Pedido entregue!\n";
+            retorno += Restaurante.MostrarDados();
+            retorno += Cliente.MostrarDados();
+            retorno += Horario;
+
+            return retorno;
         }
     }
 }

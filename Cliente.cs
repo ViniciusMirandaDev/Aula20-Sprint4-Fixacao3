@@ -3,14 +3,14 @@ namespace Aula20_Sprint4_Fixacao3
     public class Cliente
     {
         public string Nome {get; set;}
-        public string EnderecoAtual {get; set;}
+        public string Endereco {get; set;}
 
-        public Cliente(string _nome, string _enderecoatual){
+        public Cliente(string _nome, string _endereco){
             this.Nome = _nome;
-            this.EnderecoAtual = _enderecoatual;
+            this.Endereco = _endereco;
         }
         public string MostrarDados(){
-            return $"O nome do(a) cliente é {Nome} e se localiza no(a) {EnderecoAtual}";
+            return $"Cliente: {Nome} \nEndereco: {Endereco} \n";
         }
     }
 }
